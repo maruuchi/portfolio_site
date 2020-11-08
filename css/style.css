@@ -710,7 +710,7 @@ body::before {
   margin-top: 0;
 }
 
-.info{
+.flex .info{
   font-size: 10px;
   margin-bottom: 5px;
 }

@@ -128,7 +128,7 @@ body::before {
   -webkit-background-size:cover;/*Android4*/
   }
 
-.top_message{
+.top_message {
   position: fixed;
   background-color: rgba(255,255,200,0.8);
   top: 100px;

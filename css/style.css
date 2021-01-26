@@ -694,10 +694,10 @@ body::before {
   margin-bottom: 10px;
 }
 
-.icon{
+.icon {
   margin-right: 20px;
   font-size: 24px;
-  color: orange;
+  color: #007bff;
   flex-shrink: 0;
   text-align: center;
   width: 30px;

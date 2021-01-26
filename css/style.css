@@ -697,7 +697,7 @@ body::before {
 .icon {
   margin-right: 20px;
   font-size: 24px;
-  color: blue;
+  color: rgb(226, 230, 0);
   flex-shrink: 0;
   text-align: center;
   width: 30px;
@@ -845,7 +845,7 @@ body::before {
 /*お問い合わせ*/
 /*Contact Form 7カスタマイズ*/
 /*スマホContact Form 7カスタマイズ*/
-@media(max-width:500px){
+@media(max-width:500px) {
   .inquiry th,
   .inquiry td {
    display:block !important;
@@ -881,6 +881,7 @@ body::before {
  background :#f7f7f7;
  border: solid 1px #d7d7d7;
 }
+
 /*通常欄*/
 .inquiry td{
  font-size: 18px;
@@ -888,12 +889,12 @@ body::before {
  padding: 10px;
 }
 
-
 /*横の行とテーブル全体*/
 .entry-content .inquiry tr,
 .entry-content table {
  border: solid 1px #d7d7d7;  
 }
+
 /*必須の調整*/
 .haveto {
  font-size: 10px;

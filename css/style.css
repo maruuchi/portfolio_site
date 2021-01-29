@@ -781,36 +781,35 @@ body::before {
   justify-content: space-between;
 }
 
-.red-bold{
+.red-bold {
   font-weight: bold;
   color: red;
 }
 
 .bold {
   font-weight: bold;
-  color: black;
 }
 
-.about_me{
+.about_me {
   width: 34%;
   padding: 20px;
 }
 
-.information{
+.information {
   width: 33%;
   padding: 20px;
 }
 
-.information a{
+.information a { 
   font-size: 18px;
   line-height: 50px;
 }
 
-.information li:hover{
+.information li:hover {
   cursor: pointer;
 }
 
-.footer_title{
+.footer_title {
   font-size: 22px;
   font-weight: bold;
   display: inline-block;
@@ -819,7 +818,7 @@ body::before {
   margin-bottom: 20px;
 }
 
-.footer_bottom{
+.footer_bottom {
   background-color: #222222;
   color: white;
   text-align: center;
@@ -861,7 +860,7 @@ body::before {
    box-sizing:border-box !important;
   }
 
-  .inquiry tr:first-child th{
+  .inquiry tr:first-child th {
    border-top: 1px solid #d7d7d7 !important;
   }
 
@@ -888,7 +887,7 @@ body::before {
 }
 
 /*通常欄*/
-.inquiry td{
+.inquiry td {
  font-size: 18px;
  border:solid 1px #d7d7d7;
  padding: 10px;
@@ -911,8 +910,9 @@ body::before {
  position: relative;
  bottom: 1px;
 }
+
 /*任意の調整*/
-.any{
+.any {
  font-size: 10px;
  padding: 5px;
  background: #93c9ff;
@@ -926,10 +926,12 @@ body::before {
 .wpcf7-form p{
   margin-top: 20px;
 }
+
 /*ラジオボタンを縦並び指定*/
 .verticallist .wpcf7-list-item {
  display: block;
 }
+
 /*送信ボタンのデザイン変更*/
 #formbtn{
  display: block;
@@ -942,6 +944,7 @@ body::before {
  border-radius:2 px;
  margin: 25px auto 0;
 }
+
 /*送信ボタンマウスホバー時*/
 #formbtn:hover {
  background: #fff;

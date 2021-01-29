@@ -786,6 +786,11 @@ body::before {
   color: red;
 }
 
+.bold {
+  font-weight: bold;
+  color: black;
+}
+
 .about_me{
   width: 34%;
   padding: 20px;

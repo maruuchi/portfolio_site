@@ -63,7 +63,7 @@ li {
 }
 
 .flex {
-    display: flex;
+  display: flex;
 }
 
 .space {
@@ -71,9 +71,9 @@ li {
 }
 
 a.blue-link {
-    color: #0b33ff;
-    font-weight: bold;
-    text-decoration: underline;
+  color: #0b33ff;
+  font-weight: bold;
+  text-decoration: underline;
 }
 
 li.red-link{
@@ -106,12 +106,12 @@ li.red-link{
 }
 
 .top_wrapper{
-    background-size: 100vw;
-    height: 600px;
-    background-attachment: fixed;
-    background-position: 100% 100%;
-    position: relative;
-    z-index: -3;
+  background-size: 100vw;
+  height: 600px;
+  background-attachment: fixed;
+  background-position: 100% 100%;
+  position: relative;
+  z-index: -3;
 }
 
 body::before {
@@ -786,9 +786,6 @@ body::before {
   color: red;
 }
 
-.bold {
-  font-weight: bold;
-}
 
 .about_me {
   width: 34%;

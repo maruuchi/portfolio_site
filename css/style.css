@@ -697,7 +697,7 @@ body::before {
 .icon {
   margin-right: 20px;
   font-size: 24px;
-  color: rgb(226, 230, 0);
+  color: rgb(247, 135, 7);
   flex-shrink: 0;
   text-align: center;
   width: 30px;
@@ -785,7 +785,6 @@ body::before {
   font-weight: bold;
   color: red;
 }
-
 
 .about_me {
   width: 34%;

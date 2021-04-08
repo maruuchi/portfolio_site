@@ -248,7 +248,7 @@ body::before {
 }
 
 .background_color {
-  background-color: white;
+  background-color: rgb(255, 255, 255);
   position: relative;
 }
 
@@ -256,6 +256,7 @@ body::before {
   height: 60px;
   width: 100%;
   background-color: linear-gradient(120deg,#f6d365 0,#fda085 100%);
+  background-color: #E8EEEC;
   position: absolute;
 }
 
